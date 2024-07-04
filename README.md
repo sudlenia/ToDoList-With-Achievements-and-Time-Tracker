@@ -1,0 +1,8 @@
+![screenshot1](src/Рисунок1.jpg)
+![screenshot2](src/Рисунок2.jpg)
+![screenshot3](src/Рисунок3.jpg)
+![screenshot4](src/Рисунок4.jpg)
+![screenshot5](src/Рисунок5.jpg)
+![screenshot6](src/Рисунок6.jpg)
+![screenshot7](src/Рисунок7.jpg)
+![screenshot8](src/Рисунок8.jpg)
